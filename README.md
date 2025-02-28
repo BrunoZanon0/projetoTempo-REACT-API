@@ -9,3 +9,5 @@ e por fim pegar a mesma latitude e longitudo para ver o clima do local -> api.hg
 
 <br><br>
 espero ter atendido os requisitos
+
+![image](https://github.com/user-attachments/assets/08572ff6-4521-4edb-a80c-1b7b1b9b9e54)
